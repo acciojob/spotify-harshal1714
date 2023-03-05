@@ -15,7 +15,7 @@ public class Artist {
         this.likes = 0;
     }
 
-    public String getName() {
+    public  String getName() {
         return name;
     }
 
